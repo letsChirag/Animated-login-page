@@ -1,7 +1,7 @@
 # Animated-login-page
 #Output
-![Screenshot 2023-06-26 112114](https://github.com/letsChirag/Animated-login-page/assets/135195232/c5dc62c5-c66f-402f-aa7a-49c8b9395dac)
-![Screenshot 2023-06-26 112123](https://github.com/letsChirag/Animated-login-page/assets/135195232/ef0925c9-a7da-4d97-a080-38eabe02e566)
-![Screenshot 2023-06-26 112130](https://github.com/letsChirag/Animated-login-page/assets/135195232/69426299-aa83-4eac-9e58-dbf4035f0a43)
-![Screenshot 2023-06-26 112142](https://github.com/letsChirag/Animated-login-page/assets/135195232/d1b50b39-a577-40a2-b385-70347e571462)
-![Screenshot 2023-06-26 112150](https://github.com/letsChirag/Animated-login-page/assets/135195232/7964db91-547f-48b6-be5e-99b8b60593c3)
+![Screenshot (1)](https://github.com/user-attachments/assets/ee169675-9f3c-465d-9505-afe66c03531b)
+![Screenshot (2)](https://github.com/user-attachments/assets/02500076-6fc7-4d58-8827-97817de64e9c)
+![Screenshot (3)](https://github.com/user-attachments/assets/be26f662-4fe8-4905-baf8-d9cce7bae379)
+![Screenshot (4)](https://github.com/user-attachments/assets/12dedaa6-2efc-468c-80d3-098e184ad077)
+![Screenshot (5)](https://github.com/user-attachments/assets/7b957804-acbe-40fd-9876-84ef81b223b3)
